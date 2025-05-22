@@ -8,12 +8,19 @@
 - 🕸️ Web Technologies
 - 🧑🏽‍🔧Deployments / Containerization / Orchestration
 - 🗒️ Data Engineering
+
 🔭 I’m currently building a website to showcase my passion for motorcycles.
+
 🌱 I’m currently learning Node.js and React.js (also some data engineering)
+
 👯 I’m looking to collaborate on anything you've got going, if it's fun and you need help hit me up!
+
 🤔 I’m looking for help with finding a job that would suit my skills and interests. If you've got something, find my LinkedIn below.
+
 📫 How to reach me: https://www.linkedin.com/in/vishnutejnk/
+
 💬 Ask me about: What drives me and my passion for being in the tech, gym /fitness/diet advice.
+
 ⚡ Fun fact about me: 🦇Batman is my favourite superhero! 
 
 
